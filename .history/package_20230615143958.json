@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-serverless-rating",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18",
+    "nuxt": "^3.5.1"
+  }
+}
